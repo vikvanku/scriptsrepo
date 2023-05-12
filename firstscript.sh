@@ -1,4 +1,4 @@
-echo "**************************Start of script************************"
+echo "**************************Start of script change************************"
 mkdir folder1
 cd folder1
 touch file1.txt > "this is first file"
